@@ -1,4 +1,5 @@
-*Group 3 split up, but this portion of the project fairly belongs to all 3 members since we all worked on it evenly.
+* Important Notice:
+Group 3 split up, but this portion of the project fairly belongs to all 3 members since we all worked on it evenly. As such, the Company Name and Proposal will be the same.
 
 # Company name: Clarity Inc.
 
